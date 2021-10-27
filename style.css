@@ -13,6 +13,7 @@ body{
     background:linear-gradient(#DC143C,#5F9EA0);
     overflow: hidden;
     overflow-x: hidden;
+    overflow-y:hidden;
 }
 
 
